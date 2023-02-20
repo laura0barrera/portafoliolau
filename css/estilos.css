@@ -1,0 +1,29 @@
+:root{
+    --blanco: #ffffff;
+    --negro: #000000;
+    --rosa1: #ffbbe5;
+    --rosa2: #c973a2;
+    --rosa3: #f43cee;
+    --verde: #73aa7a;
+    
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    /* 1rem=10px*/
+    font-size: 1.6rem;
+    font-family: 'Prata', serif;
+    font-weight: 100;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 3.8rem;
+    color: var(--rosa3);
+}
+
+.titulo span {
+    font-size: 2rem;
+    color: var(--rosa2);
+}
