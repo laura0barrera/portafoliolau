@@ -27,3 +27,8 @@ body{
     font-size: 2rem;
     color: var(--rosa2);
 }
+.icon-whatsapp:before {
+    content: "\ea93";
+    font-size: 3rem;
+    color: var(--rosa2);
+  }
